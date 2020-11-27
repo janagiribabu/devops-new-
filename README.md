@@ -1,2 +1,2 @@
 # devops-new-
-new wproject
+new project
