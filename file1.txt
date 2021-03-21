@@ -1,2 +1,4 @@
 Hi
 this is new file
+
+some thing added
